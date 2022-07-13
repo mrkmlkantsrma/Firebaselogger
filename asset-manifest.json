@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Firebaselogger/static/css/main.effca675.css",
+    "main.js": "/Firebaselogger/static/js/main.8194545b.js",
+    "index.html": "/Firebaselogger/index.html",
+    "main.effca675.css.map": "/Firebaselogger/static/css/main.effca675.css.map",
+    "main.8194545b.js.map": "/Firebaselogger/static/js/main.8194545b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.effca675.css",
+    "static/js/main.8194545b.js"
+  ]
+}
